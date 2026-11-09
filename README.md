@@ -12,3 +12,14 @@ locally by double-clicking. Save points are stored in the browser only.
 
 Case study and teaching material: Institute of Automotive Management and
 Industrial Production (AIP), TU Braunschweig.
+
+## License
+
+© 2026 Raphael Ginster and Institute of Automotive Management and Industrial
+Production (AIP), TU Braunschweig.
+
+This work is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+You may share and adapt it for non-commercial purposes, provided you give
+appropriate credit, link to the license and indicate if changes were made.
+Commercial use requires prior permission. See [LICENSE](LICENSE).
